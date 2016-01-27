@@ -10,6 +10,5 @@
 		"type" : "git",
 		"url" : "git://github.com/j201/windows-shortcuts.git"
 	},
-	"homepage" : "http://github.com/j201/windows-shortcuts",
-	"os" : ["win32"]
+	"homepage" : "http://github.com/j201/windows-shortcuts"
 }
